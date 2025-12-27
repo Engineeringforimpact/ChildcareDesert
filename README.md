@@ -1,4 +1,3 @@
-```md
 # Cloud-Native Data Platform (Foundational)  
 ## Childcare Supply, Demand & “Childcare Desert” Intelligence Platform (MA)
 
@@ -266,4 +265,4 @@ That sentence alone justifies the project.
 - Prepare interview Q&A
 - Add real-estate site-selection logic
 - Create resume bullet + LinkedIn post
-```
+
