@@ -258,11 +258,3 @@ That sentence alone justifies the project.
 
 ---
 
-## 🔮 Possible Next Steps
-
-- Generalize MA → multi-state
-- Reuse architecture for Project #2
-- Prepare interview Q&A
-- Add real-estate site-selection logic
-- Create resume bullet + LinkedIn post
-
